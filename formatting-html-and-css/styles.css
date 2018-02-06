@@ -1,0 +1,34 @@
+/*Your styles here*/
+body {
+  background-color: #edebe6;
+  font-family: Verdana;
+}
+header {
+  width: 99%;
+  background-color: #a3421b;
+  padding: 5px 10px 5px 10px;
+  font-family: Garamond;
+}
+
+.menu-bar1 {
+  display:inline;
+  color: white;
+}
+
+.menu-bar2 {
+  display:inline;
+  text-align: center;
+  color: orange;
+}
+
+.purple-banner {
+  background-color: #40376E;
+}
+
+.green-banner {
+  background-color: #AAC0AA;
+}
+
+.gray-banner {
+  background-color: #7D8491;
+}
